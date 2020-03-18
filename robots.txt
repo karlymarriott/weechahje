@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaixohveu.gurkhas.net/sitemap.xml
